@@ -4,6 +4,10 @@ A local-first AI chat web application with suggestion-driven conversations and b
 
 > Built with assistance from **Claude Code Research Preview** - an AI-powered development assistant by Anthropic.
 
+# Live URL
+
+> [https://roshn.kuniyil.me](https://roshn.kuniyil.me)
+
 ## Table of Contents
 
 - [Features](#features)
